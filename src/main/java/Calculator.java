@@ -23,7 +23,7 @@ public class Calculator {
         Scanner sc = new Scanner(System.in);
         System.out.println("Give the fisrt number");
         int a = sc.nextInt();
-        System.out.println("Give the second number");
+        System.out.println("Give the second numberr");
         int b = sc.nextInt();
         System.out.println("Sum result " + add(a,b));
 
